@@ -1,13 +1,5 @@
 # NLP-Project-on-Hospital-review
-Project is to do the sentiment analysis on the Hospital review data. 
-
-I have done the data preprocessing like cleaning the null values, converting the categorical values to numerical, tokenization, stemming, stop words removal, Pos tagging etc. 
-
-I have converted the Rating into positive, negitive sentiment.
-
-I have done the sentiment analysis model. 
-
-Evaluated the model by the accuracy of the model.
+This is an open-source project repo which deals with predicting and classifying the sentiments (Positive, Negative and Neutral) based on the healthcare reviews provided.
 # Objective
 The goal of this project is to develop a model that can classify sentiments in healthcare reviews. This involves analyzing text data from healthcare reviews and determining whether the sentiment expressed in each review is positive, negative, or neutral.
 
