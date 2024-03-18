@@ -1,7 +1,7 @@
 # NLP-Project-on-Hospital-review
 This is an open-source project repo which deals with predicting and classifying the sentiments (Positive, Negative and Neutral) based on the healthcare reviews provided.
 # Objective
-The goal of this project is to develop a model that can classify sentiments in healthcare reviews. This involves analyzing text data from healthcare reviews and determining whether the sentiment expressed in each review is positive, negative, or neutral.
+The goal of this project is to develop a model that can classify sentiments in healthcare reviews. This involves analyzing text data from healthcare reviews and determining whether the sentiment expressed in each review is positive, negative or neutral.
 
 # Tasks
 1. Data Preprocessing: This task involves cleaning and preparing the text data from healthcare reviews. It includes tasks like text tokenization, removing stopwords, and handling any missing data.
